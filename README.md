@@ -1,0 +1,2 @@
+# CheckHasOperationDuringTime
+通过handler+ontouchEvent监听用户指定时间内有无操作。
